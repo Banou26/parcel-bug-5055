@@ -1,0 +1,14 @@
+{
+  "name": "parcel-bug-5055",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.377"
+  },
+  "dependencies": {
+    "webtorrent": "^0.108.6"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  }
+}
